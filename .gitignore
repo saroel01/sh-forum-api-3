@@ -1,0 +1,4 @@
+sh_forum_api.pem
+node_modules
+.env
+config/database
